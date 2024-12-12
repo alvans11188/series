@@ -1,0 +1,59 @@
+Carmen|36|F|carmen36||pass2630|Breaking Bad|2008|Drama, Crimen|9.5, Friends|1994|Comedia, Romance|8.9, The Crown|2016|Drama, Historia|8.6  
+Luis|29|M|luis29||password123|Game of Thrones|2011|Drama, Fantasía|9.2, The Mandalorian|2019|Ciencia Ficción, Aventura|8.7, Stranger Things|2016|Ciencia Ficción, Drama|8.7  
+Elena|42|F|elena_x||securePass2023|Sherlock|2010|Misterio, Crimen|9.1, Black Mirror|2011|Ciencia Ficción, Drama|8.8, House of the Dragon|2022|Drama, Fantasía|8.5  
+Carlos|31|M|carlitos||pass4567|Better Call Saul|2015|Drama, Crimen|8.9, Peaky Blinders|2013|Drama, Crimen|8.8, Dexter|2006|Drama, Crimen|8.7  
+María|25|F|maria_love||mypass8899|Friends|1994|Comedia, Romance|8.9, How I Met Your Mother|2005|Comedia, Romance|8.3, The Big Bang Theory|2007|Comedia|8.2  
+Daniel|38|M|daniel38||secureCode111|The Sopranos|1999|Drama, Crimen|9.2, Vikings|2013|Drama, Acción|8.5, Fargo|2014|Drama, Crimen|8.9  
+Ana|27|F|ana_27||sunnyDay90|The Boys|2019|Acción, Ciencia Ficción|8.7, Euphoria|2019|Drama|8.4, Arcane|2021|Animación, Acción|9.0  
+Pablo|34|M|pablox||admin123|Lost|2004|Aventura, Misterio|8.3, The Walking Dead|2010|Drama, Terror|8.1, Rick and Morty|2013|Comedia, Ciencia Ficción|9.1  
+Lucía|30|F|lucia30||passlove|The Witcher|2019|Drama, Fantasía|8.2, The Crown|2016|Drama, Historia|8.6, The Mandalorian|2019|Ciencia Ficción, Aventura|8.7  
+Raúl|28|M|raulito28||happyDay88|Stranger Things|2016|Ciencia Ficción, Drama|8.7, Game of Thrones|2011|Drama, Fantasía|9.2, The Boys|2019|Acción, Ciencia Ficción|8.7  
+Sofía|23|F|sofia23||passwordQWERTY|Black Mirror|2011|Ciencia Ficción, Drama|8.8, Chernobyl|2019|Drama, Historia|9.4, Arcane|2021|Animación, Acción|9.0  
+Miguel|45|M|miguel_45||codeMaster|The Sopranos|1999|Drama, Crimen|9.2, Fargo|2014|Drama, Crimen|8.9, Breaking Bad|2008|Drama, Crimen|9.5  
+Claudia|33|F|claudi33||claudPass09|Parks and Recreation|2009|Comedia|8.6, Friends|1994|Comedia, Romance|8.9, How I Met Your Mother|2005|Comedia, Romance|8.3  
+Alejandro|26|M|alex_26||passMeUp|Dexter|2006|Drama, Crimen|8.7, Vikings|2013|Drama, Acción|8.5, Game of Thrones|2011|Drama, Fantasía|9.2  
+Laura|37|F|laura37||springSunset|The Crown|2016|Drama, Historia|8.6, The Office|2005|Comedia|8.9, Succession|2018|Drama|8.9  
+Javier|32|M|javito32||secureLife123|Sherlock|2010|Misterio, Crimen|9.1, Better Call Saul|2015|Drama, Crimen|8.9, Peaky Blinders|2013|Drama, Crimen|8.8  
+Patricia|28|F|patri28||sunShine123|Friends|1994|Comedia, Romance|8.9, The Simpsons|1989|Comedia, Animación|8.7, The Big Bang Theory|2007|Comedia|8.2  
+Fernando|40|M|fernando40||mypass1234|Lost|2004|Aventura, Misterio|8.3, The Walking Dead|2010|Drama, Terror|8.1, Dexter|2006|Drama, Crimen|8.7  
+Valeria|22|F|valeria22||rainbowPass|The Boys|2019|Acción, Ciencia Ficción|8.7, Arcane|2021|Animación, Acción|9.0, Stranger Things|2016|Ciencia Ficción, Drama|8.7  alexander|21|M|alex|123|1
+Carmen|36|F|carmen36|*****|0|Breaking Bad|2008|Drama, Crimen|9.5|
+Luis|29|M|luis29|*****|0|
+Elena|42|F|elena_x|*****|0|
+Carlos|31|M|carlitos|*****|0|
+María|25|F|maria_love|*****|0|
+Daniel|38|M|daniel38|*****|0|
+Ana|27|F|ana_27|*****|0|
+Pablo|34|M|pablox|*****|0|
+Lucía|30|F|lucia30|*****|0|
+Raúl|28|M|raulito28|*****|0|
+Sofía|23|F|sofia23|*****|0|
+Miguel|45|M|miguel_45|*****|0|
+Claudia|33|F|claudi33|*****|0|
+Alejandro|26|M|alex_26|*****|0|
+Laura|37|F|laura37|*****|0|
+Javier|32|M|javito32|*****|0|
+Patricia|28|F|patri28|*****|0|
+Fernando|40|M|fernando40|*****|0|
+Valeria|22|F|valeria22|*****|0|
+alexander|21|M|alex|*****|1|
+Carmen|36|F|carmen36|*****|0|Breaking Bad|2008|Drama, Crimen|9.5|
+Luis|29|M|luis29|*****|0|
+Elena|42|F|elena_x|*****|0|
+Carlos|31|M|carlitos|*****|0|
+María|25|F|maria_love|*****|0|
+Daniel|38|M|daniel38|*****|0|
+Ana|27|F|ana_27|*****|0|
+Pablo|34|M|pablox|*****|0|
+Lucía|30|F|lucia30|*****|0|
+Raúl|28|M|raulito28|*****|0|
+Sofía|23|F|sofia23|*****|0|
+Miguel|45|M|miguel_45|*****|0|
+Claudia|33|F|claudi33|*****|0|
+Alejandro|26|M|alex_26|*****|0|
+Laura|37|F|laura37|*****|0|
+Javier|32|M|javito32|*****|0|
+Patricia|28|F|patri28|*****|0|
+Fernando|40|M|fernando40|*****|0|
+Valeria|22|F|valeria22|*****|0|
+alexander|21|M|alex|*****|1|
